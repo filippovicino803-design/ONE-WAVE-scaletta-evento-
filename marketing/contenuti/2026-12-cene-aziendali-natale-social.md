@@ -53,7 +53,7 @@ Tre punti da ripetere in tutti i contenuti:
 | 14 | mar 1 dic | LinkedIn + IG + FB | Post | Ultima chiamata (anche per gennaio: "cena di inizio anno") | Preventivo |
 | 15 | 4–19 dic | IG + FB | Stories | Momenti delle cene (solo con consenso cliente) | — |
 | 16 | lun 21 dic | LinkedIn + IG + FB | Post | Auguri e ringraziamento alle aziende | — |
-| 17 | gio 8 gen | LinkedIn | Post | Racconto di una serata + richiesta recensione ai clienti | Recensione |
+| 17 | ven 8 gen | LinkedIn | Post | Racconto di una serata + richiesta recensione ai clienti | Recensione |
 
 ---
 
@@ -69,7 +69,7 @@ Tre punti da ripetere in tutti i contenuti:
 > Le date di dicembre si riempiono in fretta, soprattutto i venerdì.
 > Se state iniziando a pensarci, scriveteci: vi prepariamo una proposta su misura per numero di ospiti e budget.
 >
-> 👉 Richiedi un preventivo: [LINK PREVENTIVO]
+> Richiedi un preventivo: [LINK PREVENTIVO]
 
 **Variante B**
 > Chi organizza la cena di Natale aziendale lo sa: location da trovare, menu da scegliere, preventivi da confrontare, ospiti da gestire. Tutto mentre si chiude l'anno.
