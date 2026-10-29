@@ -6,7 +6,7 @@
 **Fase del piano:** 2, Valore (9–22 novembre)
 **Target:** aziende (B2B): titolari di PMI, responsabili HR, marketing ed eventi, office manager a Gravina in Puglia, Altamura, provincia di Bari e Matera
 **Obiettivo:** aiutare chi organizza a scegliere il tipo di intrattenimento e portarlo a scriverci su WhatsApp
-**CTA unica:** Scriveteci su WhatsApp (link in bio su Instagram, `[LINK WHATSAPP]` nel testo su Facebook)
+**CTA unica:** Scriveteci su WhatsApp (link in bio su Instagram, https://wa.me/393735347848 nel testo su Facebook)
 **Registro:** "voi", tono professionale ed elegante, emoji al minimo
 
 > ONE WAVE cura **solo l'intrattenimento**: location e catering li sceglie l'azienda. Il carosello non deve mai far pensare il contrario.
@@ -80,7 +80,7 @@ Riferimento: piano generale in `marketing/contenuti/2026-12-cene-aziendali-natal
 > Voi scegliete il locale, noi pensiamo allo spettacolo.
 > Scriveteci su WhatsApp dal link in bio.
 
-**Nota per Facebook:** sostituire "link in bio" con il link diretto `[LINK WHATSAPP]`.
+**Nota per Facebook:** sostituire "link in bio" con il link diretto https://wa.me/393735347848.
 
 **Suggerimento test:** pubblicare la variante A. Se si sponsorizza il post, mettere a confronto A e C come testo dell'annuncio.
 
@@ -131,7 +131,7 @@ Riferimento: piano generale in `marketing/contenuti/2026-12-cene-aziendali-natal
 
 ## 5. Checklist prima della pubblicazione
 
-- [ ] Inserire `[LINK WHATSAPP]` in bio (Instagram) e nel testo (Facebook)
+- [ ] Inserire https://wa.me/393735347848 nella bio di Instagram e nel testo su Facebook
 - [ ] Logo con il payoff corretto ("MUSIC DIFFERENT")
 - [ ] Scegliere la variante di caption (consigliata A)
 - [ ] Verificare il rosso esatto dal file del logo

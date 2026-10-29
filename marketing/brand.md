@@ -68,7 +68,7 @@ Il pubblico è misto: ogni contenuto va pensato per uno dei due target.
 - **Emoji:** poche e sobrie su Instagram e Facebook; nessuna su LinkedIn e nei messaggi alle aziende.
 
 ## Call to action
-**Canale unico per i contatti: chat WhatsApp** → `[LINK WHATSAPP]` (formato `https://wa.me/39NUMERO`, senza spazi né +).
+**Canale unico per i contatti: chat WhatsApp** → https://wa.me/393735347848 (numero 373 534 7848)
 - Aziende: "Scriveteci su WhatsApp per un preventivo".
 - Privati: "Scrivici su WhatsApp", "Chiedi il preventivo su WhatsApp".
 
@@ -77,7 +77,7 @@ Il pubblico è misto: ogni contenuto va pensato per uno dei due target.
 - Facebook: [...] (icona presente in brochure)
 - LinkedIn: [...]
 - TikTok: [...]
-- WhatsApp: `[LINK WHATSAPP]`
+- WhatsApp: https://wa.me/393735347848
 - Scheda Google Business (recensioni): [...]
 
 ## Visual

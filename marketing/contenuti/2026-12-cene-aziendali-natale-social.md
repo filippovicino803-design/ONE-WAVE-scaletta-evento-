@@ -4,7 +4,7 @@
 **Cosa promuoviamo:** l'intrattenimento per cene e feste aziendali di Natale: DJ e vocalist, musicisti dal vivo, show, luci, luminarie salentine, foto e riprese con drone. **Location e catering li sceglie l'azienda**: nei testi non promettiamo mai l'organizzazione della cena.
 **Target:** aziende (B2B): titolari di PMI, responsabili HR, marketing ed eventi, office manager a Gravina in Puglia, Altamura, provincia di Bari e Matera.
 **Obiettivo:** richieste di preventivo per le serate di dicembre.
-**CTA unica:** "Scriveteci su WhatsApp" → `[LINK WHATSAPP]` (in bio su Instagram, nel testo su Facebook e LinkedIn).
+**CTA unica:** "Scriveteci su WhatsApp" → https://wa.me/393735347848 (in bio su Instagram, nel testo su Facebook e LinkedIn).
 **Canali:** LinkedIn e Facebook (principali per le aziende del territorio), Instagram (visibilità), messaggi diretti WhatsApp e LinkedIn.
 
 > **Attenzione ai tempi:** molte aziende fissano la cena tra fine ottobre e metà novembre, e spesso hanno già scelto il ristorante ma non ancora la musica: è il momento giusto per proporsi. Le date più richieste sono i venerdì e sabati di dicembre: **4–5, 11–12, 18–19 dicembre** (il 25 dicembre 2026 cade di venerdì).
@@ -71,19 +71,19 @@ Tre punti da ripetere in tutti i contenuti:
 >
 > Lavoriamo da Gravina in Puglia per aziende di tutta l'Alta Murgia, della provincia di Bari e di Matera. I venerdì di dicembre si riempiono per primi.
 >
-> Scriveteci su WhatsApp con data, locale e numero di ospiti: vi rispondiamo con una proposta. [LINK WHATSAPP]
+> Scriveteci su WhatsApp con data, locale e numero di ospiti: vi rispondiamo con una proposta. https://wa.me/393735347848
 
 **Variante B**
 > Il ristorante l'avete già scelto. E la musica?
 >
 > Per la cena di Natale aziendale portiamo tutto quello che serve allo spettacolo: impianto audio e luci, DJ e vocalist, musicisti dal vivo, show e luminarie salentine. Un solo fornitore, un solo referente.
 >
-> Scriveteci su WhatsApp per un preventivo: [LINK WHATSAPP]
+> Scriveteci su WhatsApp per un preventivo: https://wa.me/393735347848
 
 **Variante C (breve)**
 > Cene aziendali di Natale 2026 a Gravina in Puglia e dintorni.
 > DJ e vocalist, musica dal vivo, luci e luminarie salentine: all'intrattenimento pensiamo noi.
-> Date di dicembre su richiesta. Scriveteci su WhatsApp: [LINK WHATSAPP]
+> Date di dicembre su richiesta. Scriveteci su WhatsApp: https://wa.me/393735347848
 
 *Hashtag LinkedIn (max 3):* #EventiAziendali #CenaAziendale #Puglia
 
@@ -118,7 +118,7 @@ Tre punti da ripetere in tutti i contenuti:
 >
 > Quella parte la seguiamo noi: un solo referente per DJ, musicisti, luci, show e foto. Ci accordiamo con il locale su orari e spazi, voi pensate agli ospiti.
 >
-> Partiamo da tre informazioni: data, locale e numero di ospiti. Scriveteci su WhatsApp: [LINK WHATSAPP]
+> Partiamo da tre informazioni: data, locale e numero di ospiti. Scriveteci su WhatsApp: https://wa.me/393735347848
 
 ---
 
@@ -165,7 +165,7 @@ Tre punti da ripetere in tutti i contenuti:
 **Testo del post**
 > Sette cose da decidere per la musica e l'intrattenimento della cena aziendale di Natale. Le abbiamo raccolte in una checklist.
 >
-> Se preferite delegare questa parte, scriveteci su WhatsApp: [LINK WHATSAPP]
+> Se preferite delegare questa parte, scriveteci su WhatsApp: https://wa.me/393735347848
 
 ---
 
@@ -184,7 +184,7 @@ Tre punti da ripetere in tutti i contenuti:
 
 > Per le cene aziendali di dicembre ci restano poche date: [DATE RIMASTE].
 > Se avete già il locale ma non ancora la musica, scriveteci entro [DATA LIMITE].
-> WhatsApp: [LINK WHATSAPP]
+> WhatsApp: https://wa.me/393735347848
 
 ---
 
@@ -194,7 +194,7 @@ Tre punti da ripetere in tutti i contenuti:
 >
 > Se a dicembre non trovate la data, c'è un'alternativa sempre più scelta: la **cena di inizio anno** a gennaio, per ripartire insieme al team.
 >
-> Scriveteci su WhatsApp per l'una o per l'altra: [LINK WHATSAPP]
+> Scriveteci su WhatsApp per l'una o per l'altra: https://wa.me/393735347848
 
 ---
 
@@ -250,7 +250,7 @@ Testare due annunci: **A** su "voi scegliete il locale, noi pensiamo allo spetta
 
 ## 8. Cosa serve per partire
 
-- [ ] Numero WhatsApp per creare il link `https://wa.me/39NUMERO`
+- [x] Link WhatsApp: https://wa.me/393735347848
 - [ ] Date di dicembre effettivamente disponibili
 - [ ] Video reali: montaggio impianto e luci, luminarie accese, un momento di festa
 - [ ] Una o due testimonianze di clienti (con autorizzazione)
