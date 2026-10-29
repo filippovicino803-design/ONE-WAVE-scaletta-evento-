@@ -1,140 +1,138 @@
-# Post 8: carosello "3 formati per la cena aziendale di Natale"
+# Post 8: carosello "3 formati di intrattenimento per la cena aziendale di Natale"
 
 **Data di pubblicazione:** giovedì 12 novembre 2026
 **Canali:** Instagram + Facebook (stesso carosello, caption adattata)
 **Formato:** carosello, 7 slide, 1080×1350 px (4:5)
 **Fase del piano:** 2, Valore (9–22 novembre)
-**Target:** aziende (B2B): titolari di PMI, responsabili HR, marketing ed eventi, office manager in Puglia e aziende di fuori regione con team in Puglia
-**Obiettivo:** aiutare chi organizza a scegliere il tipo di serata e portarlo a chiedere una proposta
-**CTA unica:** Richiedi un preventivo (link in bio / DM, `[LINK PREVENTIVO]`)
-**Registro:** "voi", tono professionale e chiaro, emoji al minimo
+**Target:** aziende (B2B): titolari di PMI, responsabili HR, marketing ed eventi, office manager a Gravina in Puglia, Altamura, provincia di Bari e Matera
+**Obiettivo:** aiutare chi organizza a scegliere il tipo di intrattenimento e portarlo a scriverci su WhatsApp
+**CTA unica:** Scriveteci su WhatsApp (link in bio su Instagram, `[LINK WHATSAPP]` nel testo su Facebook)
+**Registro:** "voi", tono professionale ed elegante, emoji al minimo
 
-Riferimento: piano generale in `marketing/contenuti/2026-12-cene-aziendali-natale-social.md` (riga 8 del piano editoriale).
+> ONE WAVE cura **solo l'intrattenimento**: location e catering li sceglie l'azienda. Il carosello non deve mai far pensare il contrario.
+
+Riferimento: piano generale in `marketing/contenuti/2026-12-cene-aziendali-natale-social.md`.
 
 ---
 
 ## 1. Testo delle slide
 
-> Regola per la grafica: titolo breve in grande, al massimo 2–3 righe di testo sotto. Il resto del contenuto va in caption.
+> Regola per la grafica: titolo breve in grande, al massimo 2–3 righe di testo sotto. Il resto va in caption.
 
-**Slide 1 (copertina)**
-- Titolo: **Cena aziendale di Natale: quale formato fa per voi?**
-- Sottotitolo: Tre opzioni a confronto. Scorrete →
+**Slide 1 (copertina)** — *immagine: cena-masseria*
+- Titolo: **CENA AZIENDALE DI NATALE: CHE MUSICA VOLETE?**
+- Sottotitolo: Tre formati a confronto. Scorrete →
 
 **Slide 2 (premessa)**
-- Titolo: **Prima di scegliere la location, scegliete il tipo di serata.**
-- Testo: Numero di ospiti, momenti da inserire (discorso, premiazioni, auguri) e budget cambiano da un formato all'altro.
+- Titolo: **Il locale l'avete scelto. Ora la serata.**
+- Testo: Numero di ospiti, spazi del locale e momenti da inserire (discorso, brindisi, festa) cambiano il tipo di intrattenimento più adatto.
 
-**Slide 3 (formato 1)**
+**Slide 3 (formato 1)** — *immagine: sassofonista*
 - Etichetta: 01
-- Titolo: **Cena placée**
-- Testo: Tutti seduti, posti assegnati, menu servito al tavolo.
-- Funziona quando: volete una serata più formale, con discorso del titolare o premiazioni da seguire tutti insieme.
+- Titolo: **Musica dal vivo durante la cena**
+- Testo: Sassofonista, violinista o cantante accompagnano aperitivo e cena.
+- Funziona quando: volete una serata elegante, in cui si conversa a tavola.
 
-**Slide 4 (formato 2)**
+**Slide 4 (formato 2)** — *immagine: dj-vocalist*
 - Etichetta: 02
-- Titolo: **Apericena o buffet**
-- Testo: Ospiti in piedi o con sedute libere, cibo a isole o a buffet, più movimento in sala.
-- Funziona quando: volete far conoscere tra loro colleghi di reparti o sedi diverse, in un clima più informale.
+- Titolo: **Cena + DJ set con vocalist**
+- Testo: Sottofondo durante la cena, poi DJ e vocalist con impianto audio e luci professionali.
+- Funziona quando: dopo il dolce volete che il team si alzi e balli.
 
-**Slide 5 (formato 3)**
+**Slide 5 (formato 3)** — *immagine: luminarie*
 - Etichetta: 03
-- Titolo: **Festa con intrattenimento**
-- Testo: Cena o buffet, poi musica e intrattenimento `[SERVIZI DA CONFERMARE: es. DJ, band, animazione]`.
-- Funziona quando: la serata è anche un momento per festeggiare l'anno insieme al team.
+- Titolo: **Show completo**
+- Testo: Musica dal vivo, DJ e vocalist, spettacolo brasiliano o percussioni, luminarie salentine, foto e reel con drone.
+- Funziona quando: la cena di Natale è anche un modo per festeggiare un anno importante.
 
 **Slide 6 (cosa resta uguale)**
-- Titolo: **Qualunque formato scegliate, ci occupiamo di tutto.**
-- Testo: Location, menu, allestimento, intrattenimento e scaletta della serata, con un unico referente.
+- Titolo: **Qualunque formato scegliate, un solo referente.**
+- Testo: Ci accordiamo noi con il locale su orari, spazi e impianto. Voi pensate agli ospiti.
 
 **Slide 7 (CTA)**
 - Titolo: **Non sapete ancora quale fa per voi?**
-- Testo: Diteci numero di ospiti, data indicativa e budget: vi proponiamo il formato più adatto.
-- CTA: **Richiedi un preventivo** · link in bio
+- Testo: Scriveteci data, locale e numero di ospiti: vi proponiamo il formato più adatto.
+- CTA: **Scriveteci su WhatsApp** · link in bio
 - Logo ONE WAVE
 
 ---
 
 ## 2. Caption (3 varianti)
 
-**Variante A: pratica, "guida alla scelta"**
-> Cena placée, apericena o festa con intrattenimento? Per la cena di Natale aziendale il formato conta quanto la location.
+**Variante A: pratica, "guida alla scelta"** *(consigliata)*
+> Musica dal vivo, DJ set o show completo? Per la cena di Natale aziendale l'intrattenimento cambia la serata quanto il locale.
 >
-> La cena placée è adatta se avete discorsi o premiazioni. L'apericena aiuta i colleghi di reparti diversi a parlarsi. La festa con intrattenimento trasforma la serata in un momento per celebrare l'anno.
+> Sax, violino o voce sono ideali se volete una cena elegante. Il DJ con vocalist trasforma il dopocena in una festa. Lo show completo, con luminarie salentine e riprese con drone, è per chi vuole festeggiare in grande.
 >
-> In tutti e tre i casi ci occupiamo di location, menu, allestimento, intrattenimento e scaletta, con un unico referente.
+> In tutti e tre i casi avete un solo referente, che si accorda direttamente con il locale.
 >
-> Richiedete un preventivo dal link in bio: partiamo da numero di ospiti, data e budget.
+> Scriveteci su WhatsApp dal link in bio: partiamo da data, locale e numero di ospiti.
 
 **Variante B: dal punto di vista di chi organizza**
-> Se quest'anno la cena di Natale tocca a voi, la prima domanda non è "dove", ma "come".
+> Se quest'anno la cena di Natale tocca a voi e il ristorante è già prenotato, resta la domanda più difficile: come rendere la serata diversa dalle altre?
 >
-> Seduti a tavola con il menu servito, in piedi con un buffet o con musica fino a tardi: sono tre serate diverse, con tempi, spazi e costi diversi.
+> Musica dal vivo durante la cena, DJ e vocalist per ballare, oppure uno show completo: sono tre serate diverse. Scorrete il carosello e, se avete dubbi, scriveteci. Vi aiutiamo a scegliere.
 >
-> Scorrete il carosello e, se avete ancora dubbi, scriveteci. Vi aiutiamo a scegliere e ci occupiamo del resto.
->
-> Richiedi un preventivo: link in bio.
+> Scriveteci su WhatsApp, link in bio.
 
 **Variante C: breve**
-> Tre formati per la cena aziendale di Natale: placée, apericena/buffet, festa con intrattenimento.
-> Voi scegliete il tipo di serata, noi pensiamo a location, menu, allestimento e scaletta.
-> Richiedi un preventivo dal link in bio.
+> Tre formati per la cena aziendale di Natale: musica dal vivo, DJ set con vocalist, show completo.
+> Voi scegliete il locale, noi pensiamo allo spettacolo.
+> Scriveteci su WhatsApp dal link in bio.
 
-**Nota per Facebook:** il link si può inserire direttamente nel testo al posto di "link in bio" (`[LINK PREVENTIVO]`).
+**Nota per Facebook:** sostituire "link in bio" con il link diretto `[LINK WHATSAPP]`.
 
-**Suggerimento test:** pubblicare la variante A (più informativa, adatta a un carosello di valore). Se si sponsorizza il post, testare A contro C come testo dell'annuncio.
+**Suggerimento test:** pubblicare la variante A. Se si sponsorizza il post, mettere a confronto A e C come testo dell'annuncio.
 
 ---
 
 ## 3. Hashtag
 
-Da inserire in fondo alla caption (Instagram) o in numero ridotto su Facebook (2–3).
-
-**Instagram (8):**
-#cenaaziendale #cenadinatale #eventiaziendali #natale2026 #eventipuglia #puglia #organizzazioneeventi #teambuilding
+**Instagram (10):**
+#cenaaziendale #cenadinatale #eventiaziendali #natale2026 #gravinainpuglia #altamura #bari #matera #dj #musicadalvivo
 
 **Facebook (3):**
-#cenaaziendale #eventiaziendali #puglia
-
-`[AGGIUNGERE hashtag della città/provincia di riferimento, es. #bari #lecce, quando confermata la zona principale]`
+#cenaaziendale #eventiaziendali #gravinainpuglia
 
 ---
 
 ## 4. Brief grafico
 
 **Formato e misure**
-- Carosello Instagram/Facebook, 7 slide, 1080×1350 px (4:5), esportazione PNG o JPG ad alta qualità.
-- Margini di sicurezza di almeno 80 px sui lati: Instagram taglia i bordi nell'anteprima.
+- Carosello Instagram/Facebook, 7 slide, 1080×1350 px (4:5), PNG o JPG ad alta qualità.
+- Margini di sicurezza di almeno 80 px sui lati.
 
-**Stile**
-- Colori e font del brand: `[DA DEFINIRE in brand.md]`. Fino ad allora: fondo neutro chiaro o scuro, un solo colore d'accento, al massimo due font.
-- Atmosfera natalizia sobria (luci calde, verde, dettagli dorati), niente clipart di Babbo Natale o renne: il pubblico è aziendale.
-- Coerenza con il carosello del Post 2 (29 ottobre): stessa griglia, stesso posizionamento del logo.
+**Colori e font (dal logo)**
+- Fondo nero `#000000` o foto scura con velatura nera; testi bianchi `#FFFFFF`.
+- Rosso `#A3121C` solo come accento: numerazione "01 / 02 / 03", una parola chiave, bottone della CTA. Valore approssimato dal logo: verificare con il file originale.
+- Titoli in maiuscolo spaziato, come la scritta ONE WAVE del logo; testi in un sans-serif leggibile.
+- Atmosfera natalizia sobria (luci calde, verde scuro), niente clipart: il pubblico è aziendale.
+- Coerenza con il carosello del Post 2: stessa griglia, stesso posizionamento del logo.
 
-**Foto (solo reali, niente stock)**
-- Slide 1: tavolata allestita con luci calde, vista d'insieme.
-- Slide 3 (cena placée): tavolo rotondo o imperiale apparecchiato, segnaposto, centrotavola.
-- Slide 4 (apericena/buffet): isola di cibo o buffet con ospiti in movimento (volti non riconoscibili, oppure con liberatoria).
-- Slide 5 (festa): consolle DJ, luci, pista o momento di brindisi.
-- Slide 2, 6 e 7: solo testo su fondo pieno, oppure foto sfocata di sfondo con testo leggibile.
-- `[FOTO DA FORNIRE: servono almeno 4 foto reali di eventi ONE WAVE, una per ciascun formato più la copertina]`
-- Privacy: usare solo foto con ospiti che hanno dato il consenso o in cui le persone non sono riconoscibili.
+**Immagini** (in `marketing/immagini/`, generate con l'IA, solo illustrative)
+- Slide 1: `cena-masseria`
+- Slide 3: `sassofonista`
+- Slide 4: `dj-vocalist`
+- Slide 5: `luminarie`
+- Slide 2, 6 e 7: solo testo su fondo nero.
+- In alternativa, o meglio ancora, usare le foto reali della brochure (es. il sassofonista tra gli ospiti), purché ci sia il consenso delle persone riconoscibili.
+- Le immagini IA non vanno mai presentate come foto di vostri eventi: niente didascalie del tipo "la nostra serata da...".
 
 **Testo sulle slide**
-- Titoli grandi e leggibili anche da smartphone (indicativamente 60–80 pt), testo secondario non sotto i 32 pt.
-- Numerazione "01 / 02 / 03" ben visibile sulle slide dei formati, per dare l'idea del confronto.
-- Freccia o "Scorrete →" sulla copertina per invitare allo swipe.
-- Slide 7: CTA "Richiedi un preventivo" evidenziata (bottone o riquadro nel colore d'accento) + logo.
+- Titoli 60–80 pt, testo secondario non sotto i 32 pt.
+- "Scorrete →" sulla copertina.
+- Slide 7: CTA "Scriveteci su WhatsApp" in un riquadro rosso + icona WhatsApp + logo.
 
-**Alcol:** se nelle foto compaiono bicchieri o brindisi, nessun riferimento promozionale a bevande alcoliche nel testo; il post non va sponsorizzato verso un pubblico sotto i 18 anni (in ogni caso il target ads è 30–60).
+**Alcol:** nessun riferimento promozionale a bevande alcoliche; il post non va sponsorizzato verso minori (il target ads è 30–60 anni).
+
+**Logo:** correggere il refuso "MUSIC DIFFEERENT" prima di inserirlo nelle slide.
 
 ---
 
 ## 5. Checklist prima della pubblicazione
 
-- [ ] Inserire `[LINK PREVENTIVO]` in bio (Instagram) e nel testo (Facebook)
-- [ ] Confermare i servizi di intrattenimento offerti (slide 5)
-- [ ] Recuperare le foto reali per ciascun formato, con consenso
-- [ ] Applicare colori e font del brand, quando definiti
+- [ ] Inserire `[LINK WHATSAPP]` in bio (Instagram) e nel testo (Facebook)
+- [ ] Logo con il payoff corretto ("MUSIC DIFFERENT")
 - [ ] Scegliere la variante di caption (consigliata A)
-- [ ] Rispondere ai commenti e ai DM entro la giornata: chi chiede informazioni va portato alla richiesta di preventivo
+- [ ] Verificare il rosso esatto dal file del logo
+- [ ] Rispondere ai commenti e ai messaggi entro la giornata, portando la conversazione su WhatsApp
